@@ -1,3 +1,7 @@
+
+
+
+q2.
 import java.util.Scanner;
 class ArrayList{
 	private int[] a=null;
